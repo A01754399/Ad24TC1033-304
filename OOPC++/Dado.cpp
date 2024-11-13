@@ -13,7 +13,7 @@ int Dado::tirar()
 
     d.set_caras(6);
 
-    return rand (); num_de_caras + 1;
+    return rand ();
 }
 
 void Dado :: set_caras(int n)
