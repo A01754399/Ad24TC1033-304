@@ -20,3 +20,9 @@ int main () {
     return 0;
 
 }
+
+Juego serpientes (10)
+serpientes.creacion_tablero();
+serpientes.impresion_tablero();
+
+return 0;

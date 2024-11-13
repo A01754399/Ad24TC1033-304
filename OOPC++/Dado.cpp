@@ -26,3 +26,6 @@ int Dado::get_caras ()
 {
     return num_de_caras; 
 }
+
+Dado::Dado(int n)
+
